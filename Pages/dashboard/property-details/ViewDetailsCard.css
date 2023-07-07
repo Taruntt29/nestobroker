@@ -1,0 +1,18 @@
+.video-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  background-color: #000;
+}
+
+.video-overlay h2 {
+  font-weight: 700;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.property__details__text__table td {
+  font-size: 15px;
+  color: #7d7f88;
+}

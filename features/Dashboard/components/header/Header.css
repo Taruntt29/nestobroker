@@ -1,0 +1,13 @@
+.nes__navbar {
+  background-color: #ecf7ff;
+}
+.nes__navbar .navbar-nav a {
+  font-weight: 600;
+  color: #282431 !important;
+}
+.nes__navbar__right__circle {
+  width: 48px;
+  height: 48px;
+  background-color: #278fd9;
+  color: #ffffff;
+}

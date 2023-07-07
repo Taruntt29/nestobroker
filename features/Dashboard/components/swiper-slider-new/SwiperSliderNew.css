@@ -1,0 +1,57 @@
+.nes__hero {
+  border-radius: 16.7335px;
+  overflow: hidden;
+}
+
+.nes__hero h1 {
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 72px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.nes__hero p {
+  font-weight: 400;
+  font-size: 35px;
+  line-height: 42px;
+  color: #ffffff;
+}
+
+.hero-section {
+  position: relative;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hero-caption-img-navigation {
+  bottom: 2rem;
+  left: 1.3rem;
+}
+
+.nes__swiper__slider__new h1 {
+  font-weight: 700 !important;
+  font-size: 60px;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.nes__swiper__slider__new__slide .nes__swiper__slider__new__slide__description {
+  font-size: 30px !important;
+  color: #ffffff;
+}
+
+.nes__swiper__slider__new .swiper {
+  padding: 0px !important;
+  overflow: hidden;
+}

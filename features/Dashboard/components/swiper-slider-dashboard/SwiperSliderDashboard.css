@@ -1,0 +1,72 @@
+.nes__broker__swiper__item__location span {
+  font-weight: 600;
+  font-size: 14.6837px;
+  line-height: 39px;
+  color: #282431;
+}
+
+.nes__broker__swiper__item__title {
+  font-weight: 700;
+  font-size: 37.7796px;
+  line-height: 39px;
+  color: #282431;
+}
+
+.nes__broker__swiper__item__price {
+  background-color: #fc5c67;
+  border-radius: 6.21813px;
+  font-weight: 600;
+  font-size: 18.2369px;
+  line-height: 39px;
+  color: #ffffff;
+}
+
+.nes__broker__swiper__item__desc {
+  font-weight: 400;
+  font-size: 13.7954px;
+  line-height: 20px;
+  color: #282431;
+  opacity: 0.5;
+}
+
+.nes__broker__swiper__item__icons__icon span {
+  font-weight: 400;
+  font-size: 14.6837px;
+  line-height: 20px;
+  color: #282431;
+}
+
+.nes__broker__swiper__item__media__body h5 {
+  font-weight: 400;
+  font-size: 14.6837px;
+  color: #282431;
+}
+
+.nes__broker__swiper__item__media__body p {
+  font-weight: 400;
+  font-size: 14.6837px;
+  color: #282431;
+  opacity: 0.5;
+}
+
+.nes__broker__swiper__item__media img {
+  width: 50.63px;
+  height: 44.42px;
+  border: 1.77661px solid #ffffff;
+  filter: drop-shadow(0px 3.55322px 4.44152px rgba(0, 0, 0, 0.1));
+  border-radius: 6.21813px;
+}
+
+.nes__broker__swiper__item {
+  border-radius: 17px;
+}
+.nes__broker__swiper__item .swiper-image {
+  filter: drop-shadow(0px 4px 5px rgba(0, 0, 0, 0.07));
+  border-radius: 17px 0px 0px 17px;
+}
+
+.nes__broker__swiper__item__content {
+  background-color: #f6f6f6;
+  border-top-right-radius: 17px;
+  border-bottom-right-radius: 17px;
+}

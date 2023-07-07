@@ -1,0 +1,17 @@
+.custom__modal__form input {
+  font-weight: 400;
+  color: #000000;
+}
+
+.custom__modal__form label {
+  font-weight: 400;
+  font-size: 25.4207px;
+  color: #333333;
+}
+
+.broker__section__title {
+  font-weight: 400;
+  font-size: 22px;
+  color: #000000;
+  margin-bottom: 1.3rem;
+}

@@ -1,0 +1,34 @@
+.nes__dashboard__modal__visit__img-small {
+  width: 100px;
+  height: 100px;
+  background-color: #e6ecff;
+  border: 7px solid #ffffff;
+  box-shadow: 0px 0px 9.2294px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.nes__dashboard__modal__visit .card-body {
+  font-weight: 400;
+  font-size: 16px;
+  color: #8a8a8a;
+}
+
+.nes__dashboard__modal__visit span {
+  color: #000000;
+  font-size: 16px;
+}
+
+.nes__dashboard__modal__visit .card-title {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 55px;
+  color: #1e1e1e;
+}
+
+.nes__dashboard__modal__visit__cta button {
+  width: 50px;
+  height: 50px;
+}
