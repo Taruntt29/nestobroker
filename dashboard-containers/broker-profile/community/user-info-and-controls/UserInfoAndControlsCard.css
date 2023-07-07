@@ -1,0 +1,30 @@
+.user-card-container .card-title {
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+
+.user-card-container .card-subtitle {
+  font-weight: 400;
+  font-size: 15px;
+  color: #b7b7b7;
+}
+
+.user-card-container .card-text {
+  font-weight: 400;
+  font-size: 17px;
+  color: #282431;
+}
+
+.user-controls-container .user-control-item:nth-child(3) {
+  font-weight: 400;
+  font-size: 14px;
+  align-items: center;
+  color: #282431;
+}
+.user-controls-container .user-control-item:nth-child(2) {
+  font-weight: 600;
+  font-size: 16px;
+  color: #282431;
+  opacity: 0.6;
+}

@@ -1,0 +1,23 @@
+.comment-form {
+  display: flex;
+  background-color: #f5f5f5;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+}
+
+.comment-form input {
+  border: none;
+  flex: 1;
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+  border-radius: 999px;
+}
+
+.comment-form button {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+}
+
+.comment-send {
+  background-color: transparent !important;
+}

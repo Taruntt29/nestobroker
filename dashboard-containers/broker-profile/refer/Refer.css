@@ -1,0 +1,32 @@
+.refer ul {
+  list-style-type: circle;
+}
+
+.refer ul li {
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+
+.refer ul li:not(:first-child) {
+  margin-top: 1rem;
+}
+
+.refer-component {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 10px;
+  border: 2px dashed #278fd9;
+  background-color: #d8ebf8;
+  color: #278fd9;
+  cursor: pointer;
+}
+.code {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.fa-copy {
+  font-size: 24px;
+}

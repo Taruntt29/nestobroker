@@ -1,0 +1,12 @@
+.circular__progressbar__text h6 {
+  font-weight: 400;
+  font-size: 13px;
+  color: #282431;
+}
+
+.circular__progressbar__text p {
+  font-weight: 400;
+  font-size: 11.9012px;
+  color: #282431;
+  opacity: 0.5;
+}

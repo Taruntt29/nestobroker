@@ -1,0 +1,23 @@
+.nes__rating__review__card {
+  background-color: #ffffff;
+  border: 1px solid #d3d3d3;
+  border-radius: 17.3619px;
+}
+
+.nes__rating__review__card .card-header {
+  color: #282431;
+  font-size: 18px;
+  font-size: 20px !important;
+  font-weight: bold !important;
+}
+
+.nes__rating__review__card .card-body {
+  border: 1px solid #d3d3d3;
+  border-radius: 17.3619px;
+}
+
+.nes__rating__review__card__heading2 {
+  font-weight: 400;
+  font-size: 18px;
+  color: #282431;
+}

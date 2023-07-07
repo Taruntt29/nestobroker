@@ -1,0 +1,18 @@
+
+.bannerText h1{
+font-weight:700 !important;
+font-size:35px;
+line-height: 47px;
+letter-spacing: 3px;
+}
+.bannerText p{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 127px;
+}
+.bannerText{
+    position: absolute;
+    top: 180px;
+    left: 165px;
+    color: #fff;
+}

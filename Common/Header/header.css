@@ -1,0 +1,22 @@
+.navbar-brand img {
+    width: 170px;
+ 
+  }
+  
+  .profile-img {
+    width: 40px;
+    height: 40px;
+  }
+.navIcon {
+    color:#278FD9;
+    margin-left: 13px;
+} 
+.navSideIcon {
+    margin-right: 6%;
+    font-size: 30px !important;
+}
+@media (max-width: 768px){
+    .navSideIcon{
+        float: right;
+    }
+}

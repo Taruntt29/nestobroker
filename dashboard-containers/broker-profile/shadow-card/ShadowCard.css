@@ -1,0 +1,16 @@
+.shadow-card {
+  box-shadow: 0px 6.34109px 27.7423px rgba(0, 0, 0, 0.07) !important  ;
+  background-color: #f8f8f8 !important;
+}
+
+.notification__card {
+  font-weight: 400;
+  font-size: 20.1874px;
+  color: #000000;
+  margin-bottom: 0rem !important;
+  background-color: #f8f8f8 !important;
+}
+
+.notification__card:not(:first-child) {
+  margin-top: 1rem !important;
+}
